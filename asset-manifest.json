@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dbatistaschilling/monsters-rolodex/static/css/main.04b56dc7.chunk.css",
+    "main.js": "/dbatistaschilling/monsters-rolodex/static/js/main.72e7ed61.chunk.js",
+    "main.js.map": "/dbatistaschilling/monsters-rolodex/static/js/main.72e7ed61.chunk.js.map",
+    "runtime-main.js": "/dbatistaschilling/monsters-rolodex/static/js/runtime-main.736a26c9.js",
+    "runtime-main.js.map": "/dbatistaschilling/monsters-rolodex/static/js/runtime-main.736a26c9.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/dbatistaschilling/monsters-rolodex/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/dbatistaschilling/monsters-rolodex/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/dbatistaschilling/monsters-rolodex/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/dbatistaschilling/monsters-rolodex/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/dbatistaschilling/monsters-rolodex/index.html",
+    "static/css/main.04b56dc7.chunk.css.map": "/dbatistaschilling/monsters-rolodex/static/css/main.04b56dc7.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/dbatistaschilling/monsters-rolodex/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.736a26c9.js",
+    "static/js/2.4ae214a8.chunk.js",
+    "static/css/main.04b56dc7.chunk.css",
+    "static/js/main.72e7ed61.chunk.js"
+  ]
+}
